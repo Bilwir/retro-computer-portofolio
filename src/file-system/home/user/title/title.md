@@ -6,7 +6,8 @@
 #  *I'm Alvins*
 
 ##   • Community Leader
-##   • Branding & Creative Direction
+##   • Branding & Creative
+##   • Server Developer
 
 
 
