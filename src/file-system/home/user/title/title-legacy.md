@@ -2,14 +2,14 @@
 
 
 
-## Welcome to ED-Linux 1.0 LTS
+## Welcome to TC-Linux 1.0 LTS
 
 
 
 #  Hi there,
-#  *I'm Edward*
-#  -Creative Developer
-##     — Computer Science graduate of
-##        the University of Melbourne
+#  *I'm Alvin*
+#  -Community & Creative Lead
+##     — Co-founder of
+##        Terror Community
 ##
 ###   *Scroll* or type "help" to get started
