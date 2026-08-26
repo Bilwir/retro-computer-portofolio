@@ -2,10 +2,9 @@
 
 
 
-## *Project L*
-## 2015
+## *Hyperion Community*
+## 2023-2024
 
-### • Game Dev,
-### • Design, 3D
-!(/images/project-l.png?aspect=1.7777)
-Over the years I have made many games, with the screenshot below representing one of them from around 2015. Probably one of the more technically challenging games I have created, it was an open world sandbox written in Unity, where you could interact, move, rotate and scale the objects in the world to build anything you wanted.
+### • Community Founding, Leadership
+### • Server Administration, Branding
+Hyperion was the community I co-founded with Brainmww_ and Helta_ in 2023 — TC's predecessor. Across Hyperion Legends (two generations) and Hyperion Hardcore, we built our first real community at scale, growing from around 35 active players to a foundation solid enough to rebrand into Terror Community by late 2024.
