@@ -3,14 +3,14 @@
 
 ##   Hi there, 
 
-#  *I'm Ed H*
+#  *I'm Alvins*
 
-##   • Software Engineer
-##   • Digital Designer
-
-
+##   • Expert - Community manager, leader, and builder
+##   • Intermediet - Minecraft Server Engineer
 
 
 
-### Welcome to ED-Linux 1.0 LTS
+
+
+### Welcome to TRC-Linux 1.0 LTS
 ### →→ Scroll or type "help" to get started
