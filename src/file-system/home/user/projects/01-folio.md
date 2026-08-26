@@ -2,9 +2,9 @@
 
 
 
-## *Folio (This Website)*
-## 2022
+## *Terrorian High*
+## 2026-Present
 
-### • TypeScript, WebGL,
-### • Shader Language, Web Dev
-This was a project I built for fun over one of my uni breaks, built in TypeScript and THREE.js, it contains a number of nifty features such as: a 3D retro computer that you can interact with, a very simple UNIX shell implementation, a files system implementation, markdown interpreter and renderer, and a text layout engine.
+### • Roleplay Design, Modpack Curation
+### • Forge 1.20.1, Content Writing
+Terrorian High is a School & City series based on the My Hero Academia concept, running alongside Terror Forsaken. It's TC's current popularity peak — I've worked on arc scripting, series teasers, schedule templates, and modpack curation, including debugging mod conflicts and choosing performance-friendly alternatives for a smoother client experience.
