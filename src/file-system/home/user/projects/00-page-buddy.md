@@ -2,11 +2,11 @@
 
 
 
-## *Page Buddy*
-## 2023-24
+## *Terror Community*
+## 2023-Present
 
-### • React, TypeScript, Gleam (Erlang),
-### • Sql, AI, Web Dev
-Page Buddy is a word processor, with everything you would expect from WYSIWYG editor along with a novel drag and drop user interface and a powerful style/theme engine. Additionally it provides: rich accessibility tools, including, an embedded neural network (Wasm / WebGPU) for auto complete, developed to help people with dyslexia (like me) with their writing; and the ability for users to publish their documents to the web.
+### • Minecraft, Community, Roleplay,
+### • Story, Democratic, Respecfull
+Terror Community is a roleplay community built and developed collaboratively by both staff and members. The community focuses on creative cooperation and an exciting, high-quality roleplay experience.
 
-Page Buddy is about 35K lines of code, it even has some users (~100 WAUs)!
+Terror Community is also dedicated to private Minecraft roleplay series. We aim to elevate the quality of Minecraft roleplay in Indonesia and create engaging, unconventional roleplay themes and systems. We also aspire to be a home for roleplayers with boundless creativity.
