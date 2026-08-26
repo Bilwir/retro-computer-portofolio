@@ -2,10 +2,10 @@
 
 
 
-## *Glowbal*
-## 2020
+## *Terror Arc*
+## 2025
 
-### • Agile, Design,
-### • Accessibility, UI/UX, Web Dev
+### • Economy Redesign, Series Direction
+### • MMOItems, MythicMobs
 
-As part of the university subject IT Project, I was required to produce an ePortfolio web app as part of a small group. We called our app Glowbal and built it with TypeScript, React, Express and employed an agile development process. I was a front end lead and wrote most of the UI components. I was also responsible for accessibility testing and ensuring users of all abilities could access our app.
+A rebrand of Terror Legends built to fix pay-to-win issues from the previous system. Terror Arc marked the point where I started pushing Terror Community toward a more serious, polished series direction.
