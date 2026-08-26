@@ -5,12 +5,12 @@
 
 #  *I'm Alvins*
 
-##   • Expert - Community manager, leader, and builder
-##   • Intermediet - Minecraft Server Engineer
+##   • Community Leader
+##   • Branding & Creative Direction
 
 
 
 
 
-### Welcome to TRC-Linux 1.0 LTS
+### Welcome to TC-Linux 1.0 LTS
 ### →→ Scroll or type "help" to get started
