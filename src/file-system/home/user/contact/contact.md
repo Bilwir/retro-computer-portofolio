@@ -3,6 +3,6 @@
 
 
 # Contact
-## Reach out on*LinkedIn*
+## Reach out on *My Community*
 
-https://www.linkedin.com/in/edwardhinrichsen/
+https://linktr.ee/terrorcommunity
