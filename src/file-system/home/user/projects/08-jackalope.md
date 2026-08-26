@@ -2,10 +2,9 @@
 
 
 
-## *Jackalope*
-## 2017
+## *Arceus SMP*
+## 2023
 
-### • Industrial Design,
-### • Visual Communication, Branding
-!(/images/jackalope.png?aspect=1.7977)
-In my final year of high school I took a subject called Visual Communication Design (VCD). As part of VCD we were given the assignment to develop and fulfill a brief for a fictional client. I gave myself the brief to design a series of smart home appliances for the made up company Jackalope and produce accompanying visual identity and advertising material. Below is a poster of a smart speakers I designed with the Jackalope logo in the corner. See more of this project on Behance.
+### • Server Founding, Weapon Systems
+### • MMOItems, MythicMobs
+Co-founded with a friend, Arceus SMP was one of the first servers I built using a Legends-style weapon system through MMOItems and MythicMobs. It was small and private — just 5-12 active members — but it became the foundation for the systems I'd later develop across Terror Community's series.
