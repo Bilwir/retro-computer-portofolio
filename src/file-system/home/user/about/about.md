@@ -4,8 +4,8 @@
 
 # Hi there
 
-My name is Ed Hinrichsen, I’m an award-winning web dev / digital designer and full stack software engineer. I have a passion for all things technology and design, from software engineering & machine learning to UI/UX & 3D graphics.
+My name is FinnedAlvin, I'm the Founder and Owner of Terror Community, a Minecraft Roleplay Community. I wear a lot of hats there — community leader, developer, management, Director Series, Creative, Content creator, and branding lead all at once.
 
-In addition to my love of technology and design, I am also interested in education, history, economics and politics.
+i have a passion for community management, branding, and design, paired with the technical know-how to build and develop the Minecraft servers that bring it all together.
 
-Type "cd ~/projects" then "ls" to see details of some of the projects I have developed over my fifteen plus years of coding experience.
+Type "cd ~/projects" then "ls" to see some of what I've built for Terror Community over the years.
